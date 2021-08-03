@@ -1,3 +1,5 @@
+"""Script to run function to create embellished dougscore dataset"""
+
 import scrape
 import clean
 

@@ -7,7 +7,7 @@ necessary.
 import pandas as pd
 import requests
 from key import key
-from urllib.parse import unquote, urlparse
+from urllib.parse import unquote
 
 def video_year(link, key):
     link2 = unquote(link)

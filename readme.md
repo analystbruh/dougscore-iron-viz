@@ -5,5 +5,10 @@ should only contain one line.
 key = 'yourAPIkeyFromGoogle'
 ```
 otherwise, FAILURE\
-See the Viz here: https://public.tableau.com/app/profile/christopher.martin/viz/dougscore/Dashboard1
+See the Viz here: https://public.tableau.com/views/dougscoreV2/Dashboard1 \
+install all requirements with:
+```python
+pip install -r requirements.txt
+```
 
+## Just run the dougscore.py file and dougscore.csv will be created
